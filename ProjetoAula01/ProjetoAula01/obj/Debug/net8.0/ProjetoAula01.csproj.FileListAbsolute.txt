@@ -1,0 +1,14 @@
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.exe
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.deps.json
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.runtimeconfig.json
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.dll
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.pdb
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.AssemblyInfoInputs.cache
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.AssemblyInfo.cs
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.csproj.CoreCompileInputs.cache
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.dll
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\refint\ProjetoAula01.dll
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.pdb
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.genruntimeconfig.cache
+C:\CSharp_TQ_Noite_2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ref\ProjetoAula01.dll
